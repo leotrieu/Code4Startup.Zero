@@ -8,9 +8,8 @@ In a lean startup way, we need to create a Landing Page to capture email signups
 we can partly validate our idea and value proposition. With [Zero](https://code4startup.com/projects/zero-create-landing-page-mail-chimp-woofu-viral-marketing-strategies), 
 you will learn
 
-* Learn how to Turn Traffic into Money on Landing Pages
-* Design A/B testing prototype to validate your idea
-* Build a simple Landing Page to capture emails signups
+* Build a typical Startup Landing Page to capture emails signups
+* Use Chrome Developer Tools to edit Bootstrap template easily
 * Make the page responsive for mobile, tablet & desktop
 * Embed MailChimp code for email marketing strategy
 * Apply basic SEO techniques
